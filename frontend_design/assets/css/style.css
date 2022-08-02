@@ -198,6 +198,10 @@ a {
   padding-left: 75px;
 }
 
+.careBody_height {
+	height: 185px;
+}
+
 @media (max-width:1080px){
   .slideImg {
     width: 100%;
